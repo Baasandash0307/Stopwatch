@@ -51,4 +51,9 @@ body{
     font-size: 18px;
     border: none;
     cursor: pointer;
+    transition-duration: 0.4s;
+}
+.buttons button:hover{
+    background-color: rgb(221, 85, 221);
+    color: white;
 }
